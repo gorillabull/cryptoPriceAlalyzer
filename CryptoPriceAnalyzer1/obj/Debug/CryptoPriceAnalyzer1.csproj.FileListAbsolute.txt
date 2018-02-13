@@ -1,0 +1,28 @@
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.exe
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\bin\Debug\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\bin\Debug\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.exe
+c:\users\admin\documents\visual studio 2017\Projects\CryptoPriceAnalyzer1\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.pdb
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.exe.config
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.exe
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.pdb
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\Newtonsoft.Json.dll
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\Newtonsoft.Json.xml
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.csprojResolveAssemblyReference.cache
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.csproj.CoreCompileInputs.cache
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.exe
+D:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.pdb
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.exe.config
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.exe
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\CryptoPriceAnalyzer1.pdb
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\Newtonsoft.Json.dll
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\bin\Debug\Newtonsoft.Json.xml
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.exe
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.pdb
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.csprojResolveAssemblyReference.cache
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.Window1.resources
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.csproj.GenerateResource.Cache
+F:\C_C#\cryptoPush\CryptoPriceAnalyzer1-Dotnet_server\CryptoPriceAnalyzer1\obj\Debug\CryptoPriceAnalyzer1.csproj.CoreCompileInputs.cache
