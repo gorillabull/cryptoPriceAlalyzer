@@ -61,6 +61,7 @@
             // trackBar1
             // 
             this.trackBar1.Location = new System.Drawing.Point(12, 56);
+            this.trackBar1.Maximum = 50;
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(339, 45);
             this.trackBar1.TabIndex = 2;
@@ -91,7 +92,6 @@
             this.radioButton1.Text = "Gauss";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.Click += new System.EventHandler(this.radioButton1_CheckedChanged);
-           
             // 
             // radioButton2
             // 
