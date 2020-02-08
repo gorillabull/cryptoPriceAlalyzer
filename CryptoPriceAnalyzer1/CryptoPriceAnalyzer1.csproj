@@ -7,7 +7,7 @@
     <ProjectGuid>{590C61BE-9D79-46DD-B24F-7F3990CA3A1F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CryptoPriceAnalyzer1</RootNamespace>
-    <AssemblyName>CryptoPriceAnalyzer1</AssemblyName>
+    <AssemblyName>ImagePr0_1.0</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CryptoPriceAnalyzer1.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
